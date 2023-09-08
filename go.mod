@@ -1,4 +1,4 @@
-module github.com/maticnetwork/polygon-rosetta
+module github.com/gqln/polygon-rosetta
 
 require (
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
